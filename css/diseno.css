@@ -1,0 +1,29 @@
+.cabecera {
+    text-align: center;
+}
+
+body{
+	background: url('../imagenes/fondo-pared-ladrillo.avif') no-repeat;
+	background-size: cover;
+    font: white;
+}
+
+.cuadro{
+	width: 1200px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 20px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 5%;
+	color: white;
+	border-radius: 15px;
+}
+
+img {
+    height: 400px;
+    align-items: center;
+}
+
+a, p, h1, h2{
+	color: white;
+}
